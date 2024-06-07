@@ -1,14 +1,15 @@
-# Hi there 👋
+# Hi there 👀👋🌱
 
 I am Shaka (Frontend Web Developer & UI/UX Designer). I 🧡:
 - 🎮 problem solving
 - 📸 photography
+- 🎥 videography
 - 🎮 video games
 - 💬 public speaking.
 
 I like to explore anything.
 
-🚀 I'm currently working Freelancer
+🚀 I'm currently working **Freelancer**
 🌱 I’m currently learning **React**  
 
 📫 How to reach me:
@@ -30,11 +31,9 @@ I like to explore anything.
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
-## Latest Blog Posts
+## For You
 
-- [How to add a free SSL Certificate to your website?](#)
-- [Data Types in JavaScript](#)
-- [Variables in JavaScript](#)
+- [Let's Check My Portfolio](https://sakcss.vercel.app)
 
 ## GitHub Stats
 
