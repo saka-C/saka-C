@@ -1,6 +1,8 @@
 # Hi there 👀👋🌱
 
-I am Shaka (Frontend Web Developer & UI/UX Designer). I 🧡:
+My Name Is Shaka I am a front-end web developer with extensive experience in UI/UX design. I have the ability to communicate ideas into visual design interfaces in my projects. As the founder of NEO ONE Creative Digital, I also focus on digital product development and technology education for the public. My strong communication skills have helped me build a wide network of relationships.
+
+Oh, and I like:
 - 🎮 problem solving
 - 📸 photography
 - 🎥 videography
@@ -9,12 +11,16 @@ I am Shaka (Frontend Web Developer & UI/UX Designer). I 🧡:
 
 I like to explore anything.
 
-🚀 I'm currently working **Freelancer**
-🌱 I’m currently learning **React**  
+- 🚀 I'm currently working **Freelancer**
+- 🌱 I’m currently learning **React**  
 
 📫 How to reach me:
 - email: shaka.aufa.alhajar@gmail.com
 
+## For You
+
+- [Let's Check My Portfolio](https://sakcss.vercel.app)
+  
 ## Connect with me:
 
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/sak.css)
@@ -31,9 +37,6 @@ I like to explore anything.
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
-## For You
-
-- [Let's Check My Portfolio](https://sakcss.vercel.app)
 
 ## GitHub Stats
 
