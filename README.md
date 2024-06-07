@@ -28,7 +28,7 @@ I like to explore anything.
 
 ## Technical Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,boostrap,react,github,laravel,mysql,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react,github,laravel,mysql,figma)](https://skillicons.dev)
 
 
 ## GitHub Stats
