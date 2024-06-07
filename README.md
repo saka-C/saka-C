@@ -41,8 +41,5 @@ I like to explore anything.
 ## GitHub Stats
 
 ![Shaka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saka-C&show_icons=true&theme=radical)
-
-## Most Used Languages
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saka-C&layout=compact&theme=radical)
 
