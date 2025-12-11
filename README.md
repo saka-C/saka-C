@@ -1,6 +1,8 @@
+![banner](https://github.com/user-attachments/assets/b94d5025-0773-4658-b643-112248a7aa96)
+
 # Hi there 👀👋🌱
 
-My Name Is Shaka I am a front-end web developer with extensive experience in UI/UX design. I have the ability to communicate ideas into visual design interfaces in my projects. As the founder of NEO ONE Creative Digital, I also focus on digital product development and technology education for the public. My strong communication skills have helped me build a wide network of relationships.
+My Name Is Shaka I am a front-end web developer with extensive experience in UI/UX design. I have the ability to communicate ideas into visual design interfaces in my projects. As the founder & CEO of NEO ONE, I also focus on digital product development(website) and technology education for the public. My strong communication skills have helped me build a wide network of relationships.
 
 Oh, and I like:
 - 🎮 problem solving
@@ -11,11 +13,12 @@ Oh, and I like:
 
 I like to explore anything.
 
-- 🚀 I'm currently working **Freelancer**
-- 🌱 I’m currently learning **React**  
+- 🚀 I'm **Founder & CEO** PT NEO ONE GLOBAL INOVASI INDONESIA.
+- 🌱 I’m currently learning **React**.
+- 👨‍🏫 Information System Student at Nurul Fikri, Jakarta.
 
 📫 How to reach me:
-- email: shaka.aufa.alhajar@gmail.com
+- email: shaka.neoone@gmail.com
 
 ## For You
 
